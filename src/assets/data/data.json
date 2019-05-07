@@ -1,0 +1,682 @@
+{
+  "schedule": [
+    {
+      "date": "2047-05-17",
+      "groups": [
+        {
+          "time": "Petak, 10.5.2019.",
+          "sessions": [
+            {
+              "name": "Registracija",
+              "timeStart": "8:00 ",
+              "timeEnd": "9:00 ",
+              "location": "Predvorje",
+              "tracks": ["Registration"],
+              "id": "45"
+            }
+          ]
+        },
+        {
+          "sessions": [
+            {
+              "name": "Otvaranje konferencije",
+              "timeStart": "9:00 ",
+              "timeEnd": "9:15 ",
+              "location": "Dvorana 53",
+              "tracks": ["Opening"],
+              "id": "1"
+            }
+          ]
+        },
+
+      {
+        "sessions": [
+          {
+            "name": "Pozvani predavač: Feđa Ivanšić",
+            "timeStart": "9:15 ",
+            "timeEnd": "9:45 ",
+            "location": "Dvorana 53",
+            "tracks": ["Pozvani predavač"],
+            "id": "34"
+          }
+        ]
+      },
+      {
+        "sessions": [
+          {
+            "name": "Pauza za kavu",
+            "timeStart": "9:45 ",
+            "timeEnd": "9:10 ",
+            "location": "Dvorana 62",
+            "tracks": ["Food"],
+            "id": "20"
+          }
+        ]
+      },
+
+        {
+          
+          "sessions": [
+            {
+              "name": "Informacijske ustanove kao posrednik između tehnologije i korisnika",
+              "location": "Dvorana 53",
+              "description": "Vrijeme u kojem se danas nalazimo okruženo je kako i brojnim globalizacijskim procesima, tako i značajnim utjecajima informacijskih tehnologija i znanstvenih postignuća koji zahtjevaju prilagođavanje pojedinaca i društva. Kako bismo uspješno sudjelovali u društvu za to su potrebna nova znanja i sposobnosti kroz koje bismo postigli razvijanje vještina suradničkog rada, sami razvoj inovativnosti, kritičko mišljenje te bismo na takav način postigli i aktivno sudjelovanje u društvu... Nadalje, kako bi se potaknulo podizanje svijesti o važnosti i značaju svega navedenog, patako i svijest o važnosti kulture i sudjelovanju svih članova društva, veliku važnost predstavlja suradnja informacijskih ustanova sa odgojno-obrazovnim ustanovama. Ključna uloga, odnosno može se reći da je veliki naglasakna pridavanju važnosti osposobljavanja mladih za samostalno stvaralačko izražavanje ideja, kao iskustava i svijesti o razumijevanju kulturne i jezične raznolikosti. Na studiju Informacijskih znanosti Sveučilišta u Mostaru, uz provođenje kolegija Društveno korisno učenje koje uključuje suradnju sa informacijskim i odgojno - obrazovnim ustanovama, ostvaruje se i više nego odlična suradnja. Suradnja je i više nego poželjna jer obogaćuje i proširuje resurse, a na takav način se stvara međusobna komunikacija i podrška. Najbolju kombinaciju za što kvalitetnije sudjelovanje i bolje snalaženje kroz različite aspekte društva, stvaraju stručno vodstvo predavača na fakultetima pa tako i stručno vodstvo informacijskih ustanova zajedno sa studentima koji stečena znanja primjenjuju kroz visokoškolsko obrazovanje te na takav način pomažu široj društvenoj zajednici. U ovome radu posebno će se istaknuti i pobliže objasniti suradnja i projekti studenata Filozofskog fakulteta sa Sveučilišta u Mostaru sa informacijskim ustanovama, te raznim odgojnim i obrazovnim ustanovama. Biti će prikazani podaci na temelju kojih je moguće zaključiti o dobrobiti navedene suradnje, razni izazovi koji su se odvijali, analiza zainteresiranosti stručnih ljudi, odraslih, studenata, djece, te kako i na koji način fakultet održava suradnju s javim ustanovama našeg grada. Navedeno može poslužiti kako za unapređenje prakse, društvenog korisnog učenja (eng. Service learning) u navedenim ustanovama, tako i za buduća istraživanja ovog područja djelovanja.",
+              "speakerNames": ["Matea Vukadin, Iva Čepo"],
+              "timeStart": "10:00 ",
+              "timeEnd": "11:00 ",
+              "tracks": ["Matea Vukadin, Iva Čepo"],
+              "id": "2"
+            },
+            {
+              "name": "Mobilne aplikacije i njihov utjecaj na informacijske ustanove",
+              "location": "Dvorana 53",
+              "description": "Tema rada su mobilne aplikacije i njihov utjecaj na poslovanje informacijskih ustanova. U radu se prati razvoj kako mobilnih aplikacija, tako i samih mobilnih uređaja. Prikazane su najznačajnije aplikacije koje su razvijene u posljednjih deset godina. Pojam najznačajnije označava aplikacije koje su prema dostupnim podacima najviše u uporabi u informacijskim ustanovama, ali i društvu općenito. Također, prikazan je popis aplikacija koje su trenutno u razvoju i imaju puno potencijala za uspjeh na tržištu. Cilj rada je prikazati utjecaj koje mobilne aplikacije imaju na društvo i informacijske ustanove. Tema je važna iz razloga što pregledom samog razvoja mobilnih aplikacija dobivamo uvid u porast korištenja istih, ali i porasta broja korisnika što ukazuje na sve veći interes javnosti i ulagača te važnosti ovih inovacija u društvu. Mobilne aplikacije su tijekom godina imale veliki utjecaj na digitalizaciju koja se vrši u informacijskim ustanovama te su omogućile ustanovama da ostanu relevantne, ali da im i poraste popularnost među korisnicima. Upravo zato, u radu su istaknute najvažnije informacije vezane za temu, ali i navedene inovacije koje će u budućnosti imati još veći utjecaj na ove ustanove.",
+              "speakerNames": ["Ella Crnić, Tonči Lučić"],
+              "timeStart": "10:00 ",
+              "timeEnd": "11:00 ",
+              "tracks": ["Ella Crnić, Tonči Lučić"],
+              "id": "5"
+            },  {
+              "name": "Utjecaj informacijskih tehnologija na percepciju sigurnosti i privatnosti kod studenata iz područja humanističkih, društvenih i tehničkih znanosti",
+              "location": "Dvorana 53",
+              "description": ":Korištenje informacijskih tehnologija danas je neizostavan dio svakodnevnog života, ali i poslovanja ustanova i organizacija u poslovnom, državnom i civilnom sektoru. Raširenost i pristupačnost digitalnih i informacijsko-komunikacijskih tehnologija neupitno olakšavaju komunikaciju, poslovanje, obrazovanje i svakodnevni život čovjeka. No, također je neupitno i da su navedene tehnologije omogućile određene sigurnosne prijetnje i dovele do povećane ugroženosti privatnosti. Unatoč mnogobrojnim razvijenim strategijama i alatima za očuvanje sigurnosti i zaštitu privatnosti, još je uvijek ključan ljudski čimbenik, pa je osvještavanje i edukacija o navedenim pitanjima neizostavan dio sigurnog korištenja računalnih i informacijsko-komunikacijskih sustava. U radu će se pokušati odrediti razina osviještenosti studenata po pitanju informacijske sigurnosti i zaštite privatnosti, utvrditi razlika između studenata određenih studijskih programa kada je u pitanju njihova osviještenost o pitanjima informacijske sigurnosti i zaštite privatnosti te njihovo poznavanje strategija i alata za očuvanje informacijske sigurnosti i zaštitu privatnosti, kao i ispitati koliko se u sklopu njihova studijskog programa govori o, tj. obrađuje tema informacijske sigurnosti i zaštite privatnosti. Provedeno se istraživanje temelji na ispitivanju ciljne skupine studenata završnih godina diplomskih studija različitih smjerova na Filozofskom fakultetu u Osijeku (humanističke i društvene znanosti), kao i studenata završnih godina diplomskih studija Elektrotehnike na Fakultetu elektrotehnike i računarstva u Osijeku (tehničke znanosti). U radu će se anketnim upitnicima pokušati ispitati koliko su studenti svjesni sigurnosnih prijetnji na internetu te koje mjere poduzimaju kako bi zaštitili svoje osobne podatke. Također, ispitat će se i razina njihove osviještenosti i percepcije očuvanja sigurnosti i zaštite privatnosti pri korištenju mobilnih uređaja (pametnih telefona), osobnih računala i javno dostupnih računala. Iako su suvremena informacijsko-komunikacijska i digitalna tehnologija danas vrlo pristupačne te omogućuju relativno lak i slobodan pristup informacijama, pristupanje tim informacijama često može podrazumijevati i izloženost potencijalnim prijetnjama i opasnostima kojih korisnici nisu u potpunosti svjesni. Važno je naglasiti i važnost korištenja jakih, sigurnih zaporki prilikom kreiranja korisničkih računa kako bi se osigurala maksimalna zaštita osobnih podataka. Kao jedna od potencijalnih prepreka u korištenju navedenih zaporki navodi se upravo neznanje studenata o pravilnom odabiru kvalitetne sigurnosne zaporke, odnosno nepoznavanje određenih strategija i alata koji mogu olakšati kreiranje i uporabu kvalitetnih sigurnosnih zaporki (npr. temelje zaporku na osobnim podatcima poput datuma rođenja, ne poznaju alate za sigurnu organizaciju i upravljanje zaporkama, poput LastPass-a i sl.). Edukacije na temu sigurnosti i privatnosti na internetu ključne su za sve osobe, posebno za sve one koji se svakodnevno koriste informacijskim tehnologijama bilo da je riječ o radu, studiranju ili razonodi. Od neizmjerne važnosti je razviti svijest o sigurnosnim prijetnjama na internetu, prijetnjama različitih zloćudnih programa, mrežnih prijetnji te kako se od njih zaštititi. Na primjer, neki korisnici mrežnih stranica, aplikacija ili Google računa nisu u potpunosti sigurni kako zaštititi svoje osobne podatke jer često nemaju dovoljno znanja kako to učiniti ili će jednostavno zaobići sva upozorenja i mogućnosti zaštite kako bi što prije došli do traženog i željenog sadržaja. Identifikacija korisnika ili uređaja kojim se pristupa mreži ili usluzi jedan je od prvih koraka očuvanja informacijske sigurnosti. Drugi dio kontrole pristupa mreži ili usluzi jest autentifikacija korisnika. Svakom korisniku uređaja kojim se on spaja na internet mrežu, posebno javnu, preporuča se instalacija programa (aplikacija) i korištenje određenih strategija koji će uređaj štititi od napada zloćudnih programa. Sigurnost mreže može se poboljšati korištenjem vatrozida (eng. firewall) te IPS sustava za sprečavanje upada u mrežu. Prema CISCO-u, mrežnu sigurnost podataka čine aktivnosti koje se provode s ciljem da se zaštiti iskoristivost te cjelovitost računalne mreže i podataka, a kako bi se mreža zaštitila, potrebno je da se uključe i sklopovske i programske tehnologije. Zaštita aplikacija važna je kako bi se ostvarila ili povećala sigurnost te detektiralo neuobičajeno i čudno ponašanje uređaja ili korisnika koji ugrožavaju sigurnost mreže. Segmentacijom mreže te korištenjem virtualne privatne mreže korisnicima je omogućena sigurna komunikacija s mrežom.",
+              "speakerNames": ["Antonela Čepčar, Valentina Dežić, Ivana Sliško"],
+              "timeStart": "10:00 ",
+              "timeEnd": "11:00 ",
+              "tracks": ["Antonela Čepčar, Valentina Dežić, Ivana Sliško"],
+              "id": "9"
+            }
+          
+          
+           
+          ]
+          
+        },
+        {
+          "sessions": [
+            {
+              "name": "Pauza za kavu",
+              "timeStart": "11:00 ",
+              "timeEnd": "11:30 ",
+              "location": "Dvorana 62",
+              "tracks": ["Food"],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          
+          "sessions": [
+            {
+              "name": "Izazovi očuvanja digitalnih informacija",
+              "location": "Dvorana 53",
+              "description": "Kako ulazimo u elektronsko doba digitalnih objekata, važno je biti svjestan toga kako će mnogo toga što znamo i poznajemo danas, mnogo toga što je kodirano i napisano elektroničkim putem s vremenom biti zauvijek izgubljeno. Pojedinci i organizacije dužni su čuvati te pažljivo upravljati vlastitim digitalnim resursima zbog ubrzanog množenja digitalnih materijala za svaku vrstu i oblik informacija. Neki autori tvrde kako razdoblje u kojem se nalazimo možemo opravdano nazivati „digitalno mračno doba“ te ističu različite izazove pri očuvanju digitalnih informacija. Ogromne količine digitalnih informacija već su zauvijek izgubljene jer digitalnu povijest nije moguće rekreirati – niti od strane pojedinaca niti bilo koje organizacije. Uzrok tome pronalazimo u činjenici da ona nije bila arhivirana ili njome nije upravljano na ispravan način, informacije su pohranjivane u zastarjele formate, stare baze podataka ili nisu spremane na čitljivim medijima. Kako bi izbjegavanje ovakvog događaja bilo ostvarivo, potrebno je pronaći metode za organiziranje i održivo pohranjivanje informacija danas. Činjenica da su informacijske tehnologije zastarjele svakih 18 mjeseci, stvara nestabilno i nepredvidljivo okruženje za očuvanje hardvera i softvera tijekom duljeg vremenskog razdoblja i istovremeno predstavlja izazov za sprječavanje propadanja fizičkih medija. Osim toga, financijski resursi dostupni knjižnicama i arhivima su u stalnom opadanju te se pretpostavlja kako će ovaj trend biti prisutan i u budućnosti te, istovremeno, potreba za ulaganjem u očuvanje digitalnih informacija još uvijek nije prepoznata od strane javnih politika. Nadalje, sve su stroži zakoni po pitanju intelektualnog vlasništva te licenciranja zbog čega mnogi materijali nikada niti ne ulaze u knjižnice. Identificiranje nekih od osnovnih problema očuvanja digitalnih informacija nužno je kako bi se pronašli što učinkovitiji načini njihove dugotraje prezervacije. Ovom prezentacijom se kroz pregled teorije nastoje se prikazati osnovni problemi s kojima se stručnjaci u praksi susreću kao i načini na koje dotične institucije i stručnjaci mogu doprinijeti u njihovu učinkovitom rješavanju.",
+              "speakerNames": ["Hana Josić"],
+              "timeStart": "11:30 ",
+              "timeEnd": "12:30  ",
+              "tracks": ["Hana Josić"],
+              "id": "11"
+            },
+            {
+              "name": "Repozitorij Filozofskog fakulteta u Osijeku: iskustva studenata",
+              "location": "Dvorana 53",
+              "description": "Digitalni je repozitorij, prema jednoj od njegovih definicija, programsko rješenje koje omogućuje arhiviranje, zaštitu i pristup intelektualnom digitalnom sadržaju pod određenim uvjetima. Nekoliko je tipova digitalnih repozitorija - disciplinarni, institucijski, repozitoriji objekata učenja i dr. Repozitorij Filozofskog fakulteta u Osijeku pripada institucijskom tipu repozitorija budući da na jednom mjestu okuplja i trajno pohranjuje rezultate rada institucije Filozofskog fakulteta, bilo da je riječ o znanstveno-istraživačkom, intelektualnom ili kreativnom radu. Svrha je samog digitalnog repozitorija zaštititi radove od gubitka. Repozitorij Filozofskog fakulteta u Osijeku stvoren je u sklopu sustava Digitalnih akademskih arhiva i repozitorija Dabar koji omogućuje okupljanje radova na jednom mjestu te njihovo trajno čuvanje i korištenje. U Repozitorij je moguće pohraniti završne i diplomske radove studenata, disertacije, recenzirane članke, radove s konferencija, podatke istraživanja, knjige, nastavne materijale i sl. Kako bi se radovi što lakše mogli pretražiti sadržaj se, prilikom pohranjivanja, opisuje određenim skupom metapodataka. Svrha je ovog rada istražiti upoznatost studenata Filozofskog fakulteta u Osijeku s Repozitorijem. Metodologija ovog istraživanja temelji se na online anketnom upitniku, a uzorak istraživanja su studenti Filozofskog fakulteta u Osijeku. Ključna pitanja na koja se želi dobiti odgovor odnose se na poznavanje korištenja Repozitorija, učestalost i svrhu uporabe te mogućnostima nadogradnje sustava kako bi se olakšala uporaba Repozitorija. Rezultati istraživanja analizirat će se kvantitativnim metodama.",
+              "speakerNames": ["Ivana Svalina"],
+              "timeStart": "11:30 ",
+              "timeEnd": "12:30  ",
+              "tracks": ["Ivana Svalina"],
+              "id": "13"
+            },
+            {
+              "name": "Organizacija vremena pomoću mobilnih aplikacija",
+              "location": "Dvorana 53",
+              "description": "Razvojem tehnologije i dostupnošću interneta i tehnologije širokoj populaciji, paralelno se razvijaju i nove ideje, odnosno inovativni načini kojima se pokušava pojednostaviti suočavanje sa svakodnevnim izazovima. Neke od tih ideja, kojima će se ujedno ovaj rad i baviti, su aplikacije razvijene u svrhu olakšavanja organizacije vremena i obaveza. To su aplikacije koje privlače pažnju ne samo svojim privlačnim dizajnom, već i jednostavnošću korištenja. Cilj ovog istraživanja je dobiti uvid u razinu informiranosti studenata o aplikacijama razvijenim u svrhu lakše organizacije vremena i obaveza. Također, istraživanjem se nastoji dobiti informacije o učestalosti korištenja te općenitom pristupu konceptu organizacije vremena te aplikacijama nastalim u tu svrhu. Istraživanje je provedeno uz pomoć online ankete, a uzorak čine studenti Sveučilišta u Zadru te Sveučilišta u Łódźu, Poljska. Istraživanjem će se nastojati doći do ispitanika koji su upoznati s ovakvim aplikacijama, a onima koji budu odgovorili negativno na upit o poznavanju spomenutih aplikacija, predstavit će se jedan primjer i ispitati mišljenje na temelju viđenoga. Cilj ovoga rada je istražiti korištenje aplikacija za upravljanje vremenom među onima koji ih poznaju i upoznavanje s aplikacijama onih koji ih ne poznaju sa svrhom podizanja svijesti o postojanju aplikacija koje bi mogle biti korisne. Rad će odgovoriti na sljedeća istraživačka pitanja: 1. Odnos studenata prema konceptu upravljanja vremenom 2. Koliko su studenti upoznati s postojanjem aplikacija za upravljanje vremenom 3. Zadovoljstvo i stajalište studenta prema aplikacijama za upravljanje vremenom.",
+              "speakerNames": ["Mia Salopek, Tina Zurak "],
+              "timeStart": "11:30 ",
+              "timeEnd": "12:30 ",
+              "tracks": ["Mia Salopek, Tina Zurak"],
+              "id": "6"
+            }
+          
+          ]
+          
+        }, 
+        {
+          "sessions": [
+            {
+              "name": "Pauza za ručak",
+              "timeStart": "12:30 ",
+              "timeEnd": "13:30 ",
+              "location": "Studentski centar Osijek",
+              "tracks": ["Food"],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "sessions": [
+            {
+              "name": "Radionica: Korisničko iskustvo online aplikacije 60+",
+              "location": "Dvorana 53",
+              "description": "Udio starijih građana (koji se obično definiraju kao osobe u dobi od 60 ili 65 godina) povećava se u zemalja širom svijeta, što dovodi do očekivanja da ova određena skupina stanovništva ima sve veći značaj iz perspektive istraživanja.Broj korisnika računala i interneta također je u stalnom porastu i može se reći da su u većini slučajeva starije osobe izuzetno brzo rastuća skupina korisnika računala i interneta. Budući da se udio starijih građana u društvu povećava i ljudi općenito imaju duži životni vijek, očekuje se povećanje potražnje za informacijama o tome kako se kretati i nositi se s problemima s kojima se suočavaju u kasnijoj životnoj dobi.Posljednji popis stanovništva (2011.) u Hrvatskoj pokazuje da 24% stanovništva pripada dobnoj skupini od 60+, dok samo 21% pripada onima mlađim od 19 godina (Statistički ljetopis, 2017., str. 107, 109). Zbog sve većeg broja starijih osoba u Hrvatskoj, ključno je da ih smatramo korisnicima online izvora informacija, a mnoge institucije koje im pružaju zanimljive informacije (novinske agencije, knjižnice, medicinske ustanove, itd.), trebale bi razmotriti i njihove potrebe za informacijama. Prethodna su istraživanja pokazala da starije osobe u većini slučajeva pretražuju informacije o zdravlju, lijekovima, bankarstvu, transportu, kupovini i fizičkim aktivnostima. Isto vrijedi i kada koriste računala i internet kako bi pronašli informacije - najčešća područja su zdravstvene informacije, obrazovanje i produktivnost. Starije osobe također, zbog prirodnih fizičkih i kognitivnih promjena koje prate njihovu starost, imaju različite potrebe i brige kada je riječ o korištenju računala i interneta. Stoga starije osobe zahtijevaju prilagođeno sučelje za online pretraživanje informacija. Da bi se olakšalo njihovo pretraživanje, sučelja bi trebala imati veće fontove, zvučnu navigaciju, ikone koje zahtijevaju manje precizno klikanje. Nadalje, kognitivne promjene poput smanjene koncentracije, težeg pamćenja i nedostatka interesa zahtijevaju sučelje koje je pojednostavljeno, s manje smetnji i koje je prikladno za starije osobe Budući da starije osobe imaju vlastite potrebe prilikom pretraživanja informacija, oni zahtijevaju prilagođena sučelja za pretraživanje i trebalo bi postojati sučelje koje će im omogućiti brz pristup potrebnim informacijama. Ključna točka ove radionice je i stvoriti generičko sučelje (wireframe) koje će odgovarati potrebama osobama starije životne dobi (60+).",
+              "speakerNames": ["Cvijetin Vidaković"],
+              "timeStart": "15:00",
+              "timeEnd": "15:30 ",
+              "tracks": ["Cvijetin Vidaković"],
+              "id": "68"
+            }
+          ]
+        },
+        {
+          "sessions": [
+            {
+              "name": "Pub kviz i službeni party konferencije",
+              "location": "Ul. Kardinala Alojzija Stepinca 28",
+              "description": "Caffe bar Cadillac",
+              "speakerNames": ["Social event"],
+              "timeStart": "20:00 ",
+              "timeEnd": "undefined",
+              "tracks": ["Food"],
+              "id": "98"
+            }
+          ]
+        },
+        
+        
+        {
+          "time": "Subota, 11.5.2019.",
+          "sessions": [
+            {
+              "name": "Otvaranje drugog dana konferencije",
+              "timeStart": "10:00 ",
+              "timeEnd": "10:15",
+              "location": "Dvorana 53",
+              "tracks": ["Keynote speaker"],
+              "id": "66"
+            }
+          ]
+        }, 
+        {
+          
+          "sessions": [
+           
+            {
+              "name": "Dizajniranje aktivnosti i usluga u knjižnici uz pomoć tehnologije",
+              "location": "Dvorana 53",
+              "description": "E usluge predstavljaju usluge koje su stvorene, pružene i korištene kroz informacijsko-komunikacijske tehnologije. Neke od glavnih karakteristika e-usluga su velika dostupnost različitih usluga putem Interneta ili drugih elektroničkih mreža, usluge se mogu koristiti putem Interneta a neke od usluga može biti potrebno nadoplatiti, no to nije uvijek slučaj. Knjižnice danas imaju sve fizičke komponente poput prostora, opreme, potrebnih informacija i educiranih djelatnika potrebnih za provedbu e-usluga. Brojne knjižnice organiziraju razne aktivnosti i usluge unutar knjižnice ili putem vlastite web stranice kako bi zainteresirali veći krug korisnika. Razvijanje i izrada usluga za online okruženje ili odvijanje aktivnosti uz pomoć tehnologije ponekad može biti izazov. Neke od osnovnih e-usluga koje provodi većina knjižnica su: međuknjižnična posudba, pitajte knjižničare, korisnički račun (rezervacija građe, produljenje roka i sl.), prijedlozi za nabavu, online katalog, digitalna građa i zbirke, online informacijski upiti, personalizirana lista knjiga, knjižnica na društvenim mrežama, virtualna učionica i šetnja, online kvizovi, poveznice na korisne stranice itd. Radionica će započeti pregledom postojećih primjera dobre prakse uvođenja e-usluga te teorija i strategija koje potiču interakciju među korisnika s tehnologijom. Zadatak za posjetitelje radionice će biti osmisliti inovativnu e-uslugu koja će privući posjetitelje i približiti tehnologiju korisnicima knjižnice. Svoje usluge korisnici će predstaviti kroz izradu postera u online alatu po izboru (npr. Canva, BeFunky). Zadatak je osmisliti naziv e-usluge, cilj, ciljanu skupinu korisnika, vrstu knjižnica u kojoj će se usluga provoditi, tko će provoditi uslugu i postoje li potencijalni partneri. Za radionicu je potrebno od 12 do 20 sudionika koji će biti podijeljeni u grupe po 4 sudionika. Na kraju radionice predstavit će se osmišljene e-usluge.              ",
+              "speakerNames": ["Marija Buhin, Ivona Grgić"],
+              "timeStart": "10:15",
+              "timeEnd": "11:00",
+              "tracks": ["Marija Buhin, Ivona Grgić"],
+              "id": "17"
+            }
+            
+          
+           
+          ]
+          
+        }, 
+        {
+          "sessions": [
+            {
+              "name": "Pauza za kavu",
+              "timeStart": "11:30 ",
+              "timeEnd": "12:00 ",
+              "location": "Dvorana 62",
+              "tracks": ["Food"],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          
+          "sessions": [
+            {
+              "name": "Važnost uvođenja IT-a u informacijske znanosti",
+              "location": "Dvorana 53",
+              "description": "Sa naglim razvojem tehnologije, javljaju se nove kompentencije i vještine koje informacijski stručnjak treba imati. Stručnjaci na području informacijskih znanosti su ponajviše educirani po tzv. „starom programu“. Najveća se važnost pridaje sposobnosti korištenja tražilica te pretraživanja online baza podataka. Međutim, puno stručnjaka nije savladalo korištenje novijih tehnologija koje bi im mogle pomoći u svakodnevnom poslovanju. U društvu je dostupan veliki broj informacija koje je potrebno organizirati. Upravo zato, važno je znati kako upravljati IT tehnologijama tako da bi se informacije kvalitetno strukturirale što je moguće kodiranjem. Stručnjaci bi trebali znati iz raznih popisa podataka pronaći one relevantne te napraviti shemu pretraživanja istih. Informacijski stručnjaci koji su sposobni organizirati informacije se upravo po tome razlikuju od osoba koje znaju pretraživati podatke. Postaviti i urediti bazu podataka prema vlastitim željama i potrebama je vještina važna za suvremeno doba koje je preplavljeno informacijama. Implementacija i osposobljavanje studenata u IT sektoru, koji je sveprisutan u svakodnevnom životu, nudi veliki broj mogućnosti i za nove stručnjake. Znanje kodiranja čak i uz pomoć najosnovnijih kodnih jezika, poput Pyhtona, nudi stručnjaku koji ima pristup bazi podataka, puno više slobode i izbora pri pretraživanju, nego bilo koje pretraživačko sučelje. Dok je sučelje napravljeno i namjenjeno za uporabu što većeg broja ljudi iz raznih pozadina i znanja, mogućnost pretraživanja uz pomoć programerskog jezika traži predznanje tog jezika, što znači da su stručnjaci koji se koriste tom metodom u mogućnosti pronalaska puno speficičnije građe. Sama ideja korisničkog sučelja ograničava korisnika na korištenje onih alata koji su njima prikazani u sučelju, dok uz pomoć komandne linije i programerskog jezika, sposobni koder može napraviti alate koji njemu specifično trebaju. Također, gledajući kako je veliki broj radova u elektroničkom obliku, to pruža informacijskom stručnjaku puno mogućnosti pri pretraživanju samog sadržaja rada. Koliko se često spominju određene riječi ili autori u pojedinom radu? Koji je prosjek broja stranica za rad određenih tema? Odakle dolaze radovi sa najviše autora? Sve su to moguća pitanja koje jedan informacijski stručnjak sa sposobnosti kodiranja može lagano odgovoriti. Također, prisustvo IT-a u informacijskim znanostima pruža mladim stručnjacima puno mogućnosti u raznim srodnim zanimanjima i hobijima koji se mogu razvijati u nove grane informacijskih znanosti.",
+              "speakerNames": ["Marijan Martinović, Ivana Skočibušić"],
+              "timeStart": "11:30",
+              "timeEnd": "12:30",
+              "tracks": ["Marijan Martinović, Ivana Skočibušić"],
+              "id": "8"
+            }, {
+              "name": "Autorsko pravo i digitalno doba",
+              "location": "Dvorana 53",
+              "description": "Autorsko pravo štiti stvaratelja i određuje pravne odnose koji su vezani uz intelektualne tvorevine poput knjiga, članaka, filmova i sl. Ono se polako počelo primjenjivati još u 15. st., nakon stvaranja tiskarskog stroja gdje se prvi put pojavila potreba za kontrolom distribucije knjiga koje su se odjednom tiskale u većim količinama, te je njihova distribucija bila veća i bile su dostupnije javnosti.   Kod autorskih prava postoji velika distinkcija na moralna autorska prava i imovinska autorska prava, od kojih jedna (moralna) štite samog autora, vezana su uz autora, i nisu prenosiva nakon autorove smrti. Imovinska autorska prava, s druge strane, prenose se na nakladnike ili druge pravne osobe koje ta prava mogu komercijalno iskorištavati. Ona su ujedno i ono na što prvo pomišljamo kada čujemo ili pročitamo „autorska prava“.   U današnjem digitalnom dobu, održavanje i provođenje autorskih prava sve je teže. Internet i (skoro) neograničen pristup podacima stvaraju uvjete velikih mogućnosti kršenja autorskih prava: od kopiranja i skeniranja članaka, do piratstva filmova, glazbe, knjiga i sl.  Čak i ako gledamo dalje širu sliku, kršenje autorskog prava može se smatrati i screenshot web stranice koja sadrži slike, tekst i dizajn koji mogu biti djelo jednog ili više autora. Jedan od legalnih načina kako izbjeći plaćanje naknada autorima i/ili drugim pravnim osobama na internetu je korištenje royalty-free sadržaja, popularnog kod stvaratelja sadržaja na web-platformi YouTube.   Tehnologija i Internet olakšavaju kopiranje i umnožavanje sadržaja gdje je svaka kopija jednake kvalitete, i svaka kopija te kopije je jednake kvalitete, kao original. Ta kopija se zatim iznimno lako može širiti putem društvenih mreža, foruma i ostalih online usluga, te nakon toga primatelj te kopije može ju nesmetano dalje slati brzinom koju mu jedino otežava medij prijenosa signala. Mogućnosti pohrane danas su skoro pa neograničene, od USB stickova, do vanjskih diskova koji mogu sadržavati i do 5 TB podataka.   Ovom prezentacijom nastojat će se pokazati pregled većine problema očuvanja autorskih prava u digitalnom okolišu, od reprodukcije, diseminacije pa do pohrane sadržaja. Prikazati će se današnja situacija u tom području i izazovi koji realno postoje. Potom će se razmotriti mogućnosti poboljšanja provođenja autorskih prava u budućnosti.",
+              "speakerNames": ["Sven Orlić Babić"],
+              "timeStart": "11:30",
+              "timeEnd": "12:30",
+              "tracks": ["Sven Orlić Babić"],
+              "id": "12"
+            },{
+              "name": "Odnos informacijskih stručnjaka prema tehnologijama",
+              "location": "Dvorana 53",
+              "description": "U našem radu, prezentaciji, za ovogodišnju konferenciju u Osijeku odlučili smo napraviti rad na nešto drugačiji način. Podtema Odnos informacijskih stručnjaka prema tehnologijama bilo je ono na što smo se bazirali, nakon određenog vremena provedenoga u traženju teme koja može odgovoriti na sva naša pitanja došli smo do zaključka da kontaktiramo Firmu NSoft, koja se trenutno nalazi među pet najbrže rastućih firmi na Balkanu, firma NSoft sama po sebi je ogroman pojam, rade ogroman iskorak u napretku današnje tehnologije, razvitku novih softvera i programa koji su sve više prepoznatljivi u svijetu. Odlučili smo kontaktirati neke od najbitnjiih osoba u firmi i kroz intervju napraviti istraživanje te iznijeti zanimljive podatke i dobiti odgovore na pitanja koja nas jako zanimaju. Ovaj način rada je dosta kompleksniji i složeniji od onih sa kojima smo ranije upoznati. Zbog toga se nadam da neće biti problema ako dođe do izmjena u bilo kojem trenutno, u svakom slučaju čega nas zanimljivo i kvalitetno istraživanje.",
+              "speakerNames": ["Ante Bagarić, Ivan Puljić, Stipan Popović"],
+              "timeStart": "11:30",
+              "timeEnd": "12:30",
+              "tracks": ["Ante Bagarić, Ivan Puljić, Stipan Popović"],
+              "id": "10"
+            }
+           
+           
+          
+           
+           
+          ]
+          
+        },
+        {
+          "sessions": [
+            {
+              "name": "Pauza za ručak",
+              "timeStart": "12:30",
+              "timeEnd": "13:30",
+              "location": "Studentski centar Osijek",
+              "tracks": ["Food"],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          
+          "sessions": [
+           
+           
+            {
+              "name": "Multikulturalni aspekt promjene u hrvatskim knjižnicama",
+              "location": "Dvorana 53",
+              "description": "Suvremena informacijska društva iznimno su multikulturalna i u njima koegzistiraju, manje ili više skladno, pripadnici različitih etničkih, jezičnih i kulturnih manjina. Dobrovoljne, pa čak i prisilne migracije na globalnoj i lokalnoj razini postale su uobičajena pojava. Pojedinci s različitim interesima, iskustvima i kulturnim identitetima iz različitih motiva svakodnevno mijenjaju svoje prebivalište u potrazi za mjestom koje će njima i njihovim obiteljima omogućiti kvalitetniji i lagodniji život. Iako mnogi teoretičari i stručnjaci iz područja društvenih znanosti ukazuju na važnost multikulturalnosti koja je po sve sudeći temelj za ekonomski, politički, kulturni i socijalni razvitak suvremenih društava, pojedinci koji napuštaju svoje domove na svome se putu susreću s brojnim problemima budući da se često moraju prilagoditi životu u sasvim drugačijem okruženju i različitim i nepoznatim društvenim i kulturnim tradicijama, pa čak nailaze i na nerazumijevanja i neprihvaćanja od strane domaćeg stanovništva. U tom razdoblju prilagodbe često im podršku i pomoć pružaju i nevladine, civilne organizacije i kulturne ustanove poput knjižnica. Narodne su knjižnice diljem svijeta prepoznate kao nezaobilazne ustanove koje podržavaju i osiguravaju multikulturalnu pismenost te pored pružanja osnovnih informacija potrebnih za 'preživljavanje' manjinskih skupina u novoj zajednica, pružaju i multikulturalne informacije većinskom stanovništvu kako bi se osigurao njihov skladan suživot. Knjižnice kao javne ustanove, otvorene svima i u službi svih članova svoje zajednice obiluju građom, izvorima i programima te osobljem stručnim i kompetentnim za pružanje spomenute podrške. Budući da knjižnice imaju važnu zadaću i veliku odgovornost u oblikovanju informacijskog, modernog, multikulturalnog društva, u kontekstu suvremenih migracija i „migrantske krize“ nezapamćenih razmjera koje su pogodile Europu i Hrvatsku i zakašnjelih reakcija državnih organa čiji je izostanak prouzročio mnoge probleme i nesigurnost stanovništva, cilj je ovog rada istražiti koliko i na koji način narodne knjižnice u Hrvatskoj, u onim gradovima u kojima se nalaze manjinske zajednice (prihvatilišta za tražitelje azila) pružaju podršku i informacijske usluge tim manjinskim skupinama. Istraživanje će se provesti uz pomoć kvalitativne metodologije u obliku strukturiranog intervjua s voditeljima narodnih knjižnica u navedenim gradovima te kroz analizu sadržaja mrežnih stranica i godišnjih izvještaja spomenutih knjižnica. Očekuje se da će ovo istraživanje pokazati i koliko su analizirane hrvatske knjižnice spremne i uspješne u promicanju multikulturalnosti u svojim zajednicama te ispitati koliku im podršku u tim aktivnostima pružaju upravna i nadležna tijela vlasti.",
+              "speakerNames": ["Jure Žilić, Tomislava Žilić"],
+              "timeStart": "13:10",
+              "timeEnd": "14:10",
+              "tracks": ["Jure Žilić, Tomislava Žilić"],
+              "id": "14"
+            },    {
+              "name": "Topoteka – lokalna baština priča priču",
+              "location": "Dvorana 53",
+              "description": "Ideja ovog rada je osvještavanje članova akademske zajednice o postojećem projektu kojemu se mogu priključiti svi koji su zainteresirani za lokalnu povijest, baštinu svoga kraja i povezivanje lokalnog stanovništva. Topoteka je digitalna platforma nastala u okviru co:op projekta Kreativna Europa 2014-2018, a međunarodna udruga ICARUS glavni je pokretač i koordinator cijelog projekta. Topoteka je vrsta digitalnog arhiva, odnosno alat za stvaranje mrežnih arhiva lokalne povijesti ili teme koja povezuje lokalno stanovništvo. Potiče dugoročno očuvanje, istraživanje i promociju lokalne povijesti i baštine. Dakle, ključna je suradnja lokalne zajednice i baštinskih ustanova u svrhu povećavanja vidljivosti i dostupnosti arhivske, muzejske i knjižnične građe koja obilježava i karakteristična je za jednu zajednicu, ali i vrijednog privatnog gradiva koje leži skriveno od očiju javnosti. Pomoću fotografija, dokumenata, audio i video zapisa svaka topoteka prenosi svoju priču. Ova vrsta projekta zbližava ljude, pruža znanja o povijesti vezanoj za neko mjesto, grad ili temu, povezuje baštinske ustanove, udruge i ostale pojedince koji su zainteresirani i voljni dati doprinos za razvoj kulture u svojoj zajednici. Promovira se zaštita kulturnih dobara i kolektivnog sjećanja zajednice čuvajući iste u virtualnom arhivu - u obliku topoteke. Suradnjom zajednice, znanja i sjećanja postaju zaštićeni, opisani i dostupni svim korisnicima interneta što je važno jer baština čini ostavštinu prošlih generacija, te se treba brižno čuvati u sadašnjosti kako bi bila ostavljena u naslijeđe za dobrobit budućim generacijama. Također, sva građa objavljena na platformi ujedno se objavljuje i u Europeani čime se doprinosi većoj vidljivosti manjih lokalnih zajednica koje na ovaj način postaju dio europske povijesti i baštine. U sklopu rada autorica će iz perspektive studenta navesti primjer planiranja razvoja jedne topoteke. Konkretan primjer je ideja o osnivanju topoteke grada Nove Gradiške uz navođenje osobnih iskustava iz prakse gdje se susretala s različitim problemima i preprekama. Ovaj rad ističe povezanost baštinskih ustanova i tehnologije koja omogućuje iskoristivost građe, ali i povezanost ljudi koji su istovremeno aktivni sudionici u ulozi stvaratelja kao i u ulozi korisnika ove još relativno mlade platforme.",
+              "speakerNames": ["Marina Podkonjak"],
+              "timeStart": "13:10",
+              "timeEnd": "14:10",
+              "tracks": ["Marina Podkornjak"],
+              "id": "16"
+            }
+        
+           
+          ]
+          
+        }, 
+        {
+          "sessions": [
+            {
+              "name": "Pauza za kavu",
+              "timeStart": "14:10 ",
+              "timeEnd": "14:30 ",
+              "location": "Dvorana 62",
+              "tracks": ["Food"],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          
+          "sessions": [
+           
+             {
+              "name": "Sveučilišne knjižnice u Bosni i Hercegovini i Republici Hrvatskoj: tehnološki potpomognute usluge",
+              "location": "Dvorana 53",
+              "description": "Tema istraživanja su razlike u poslovanju sveučilišnih knjižnica u Hrvatskoj i BiH s posebnim naglaskom na usluge koje su izmijenjene pod utjecajem tehnologije ili su uvedene kao potpuno nove jer je to omogućila tehnologija. U radu se uspoređuju sveučilišne knjižnice u četiri Hrvatska grada i četiri grada iz BiH. Uzorak čine; knjižnice iz Bosne i Hercegovine: J. U. Narodna i univerzitetska biblioteka Republike Srpske u Banja Luci, J. U. Narodna i univerzitetska biblioteka Derviš Sušić Tuzla u Tuzli, Sveučilišna knjižnica Sveučilišta u Mostaru te Nacionalna i univerzitetska biblioteka Bosne i Hercegovine u Sarajevu. U Republici Hrvatskoj: Nacionalna i sveučilišna knjižnica u Zagrebu, Sveučilišna knjižnica Sveučilišta u Zadru, Sveučilišna knjižnica Sveučilišta u Splitu te Gradska i sveučilišna knjižnica Osijek. Cilj ovog istraživanja je istražiti tehnološke razlike u poslovanju među navedenim knjižnicama. U radu će se najprije izraditi popis knjižničnih usluga koje su tradicionalno vezane uz papir te će se izraditi popis usluga koje su nastale zbog razvoja tehnologija te će se uz pomoć dostupnih informacija na mrežnim stranicama navedenih knjižnica utvrditi postojanje istih. Istraživačka pitanja na koja ovo istraživanje nastoji odgovoriti su: Koje sve usluge potpomognute tehnologijom postoje u knjižnicama iz uzor. Koje usluge su zamijenile postojeće, a koje usluge su nastale jer ih je omogućila tehnologija? Na koje sve načine istraživane knjižnice koriste tehnologiju u poslovanju? Koje su razlike u tehnologijama koje su upotrebljene u navedenim knjižnicama?",
+              "speakerNames": ["Barbara Strenja, Dajana Zrnić"],
+              "timeStart": "14:30",
+              "timeEnd": "15:10",
+              "tracks": ["Barbara Strenja, Dajana Zrnić"],
+              "id": "7"
+            },
+            {
+              "name": "Implementacija informacijskih tehnologija na studijima knjižničarstva u RH",
+              "location": "Dvorana 53",
+              "description": "Knjižničarstvo se oduvijek smatralo cijenjenom profesijom. Knjižnice su važne za intelektualnu i kulturnu dobrobit čovječanstva jer im je prvobitna svrha omogućiti korisniku pristup znanju. Uz knjižnice vežemo pojavu informacijskih znanosti, relativno mlade znanosti čije poslovanje danas gotovo da i nije izvedivo bez informacijsko komunikacijske tehnologije. Naime, to je područje znanosti koje tvore sve discipline koje se bave pohranjivanjem i prijenosom obavijesti bez obzira na medij na kojim se pojavljuje ili metodom i tehnikama obrade obavijesti. Pojavom informacijske tehnologije dolazi se do zaključka da knjižnice moraju biti u korak s tehnologijom. Takva je tehnologija danas glavni pokazatelj razvijenosti zemalja budući da se primjenjuje u gotovo svakoj grani gospodarstva. Upravo zbog toga, suvremeno društvo razvijenih zemalja možemo oslovljavati kao „informacijsko društvo“ koje je napredovalo upravo uz pomoć ICT-a. Bitno je naglasiti da živimo u informacijskom dobu, te da u „poplavi informacija“ moramo znati izabrati relevantne, što nam informacijska tehnologija uvelike omogućava. Informacijski stručnjaci u Hrvatskoj prepoznali su potrebu za osnivanjem studija koji će naučiti nove naraštaje kako upravljati, koristiti i voditi brigu o informacijama. Osim toga, s vremenom su uočili važnost kooperativnosti informacijskih znanosti i informacijske tehnologije te su na studije informacijskih znanosti počeli uvoditi kolegije koji su u skladu sa zahtjevima i potrebama korisnika informacija. U Hrvatskoj danas postoje tri sveučilišta na kojima se kombinirano podučavaju informacijske znanosti i komponente informacijskih tehnologija: Sveučilište Josipa Jurja Strossmayera u Osijeku, Sveučilište u Zadru i Sveučilište u Zagrebu. Od navedenih sveučilišta jedino ono u Osijeku ima diplomski studij Informacijske tehnologije. Svrha je ovog rada usporediti programe i kolegije na sva tri sveučilišta, način na koji djeluju, prikazati kako se utjecaj informacijske tehnologije očitovao u praksi, kao i saznati kako su studenti prihvatili istu.",
+              "speakerNames": ["Marija Žilić, Danijela Šarić"],
+              "timeStart": "14:30",
+              "timeEnd": "15:10",
+              "tracks": ["Marija Žilić, Danijela Šarić"],
+              "id": "18"
+            }
+        
+           
+          ]
+          
+        }, 
+        {
+          
+          "sessions": [
+          
+           
+            {
+              "name": "Zatvaranje konferencije",
+              "location": "Dvorana 53",
+              "timeStart": "15:10",
+              "timeEnd": "15:30",
+              "tracks": ["Closing"],
+              "id": "10"
+            }
+           
+          ]
+          
+        }
+
+
+      ]
+
+      
+    }
+
+    
+  ],
+
+
+  "speakers": [
+   
+    {
+      "name": "Matea Vukadin",
+      "profilePic": "/assets/img/speakers/user.png",
+      "about": "Filozofski fakultet Sveučilišta u Mostaru",
+      "location": "Everywhere",
+      "email": "vukadin1996@gmail.com",
+      "id": "1"
+      
+    },
+    {
+    "name": "Iva Čepo",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet Sveučilišta u Mostaru",
+    "location": "Everywhere",
+    "email": "",
+    "id": "2"
+  },
+  {
+    "name": "Mario Maglica",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet Sveučilišta u Mostaru",
+    "location": "Everywhere",
+    "email": "maglica.mario68@gmail.com",
+    "id": "3"
+  },
+  {
+    "name": "Marko Banović",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet Sveučilišta u Mostaru",
+    "location": "Everywhere",
+    "email": "markobb16@hotmail.com",
+    "id": "4"
+  },
+  {
+    "name": "Luka Stanislav Kordić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet Sveučilišta u Mostaru",
+    "location": "Everywhere",
+    "email": "lkordic1999@gmail.com",
+    "id": "5"
+  },
+  {
+    "name": "Antonia Juka",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet Sveučilišta u Mostaru",
+    "location": "Everywhere",
+    "email": "juka.antonia@gmail.com",
+    "id": "6"
+  },
+  {
+    "name": "Antonija Karačić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet Sveučilišta u Mostaru",
+    "location": "Everywhere",
+    "email": "antonija.karacic.5@gmail.com",
+    "id": "7"
+  },
+  {
+    "name": "Gabriela Vrljić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet Sveučilišta u Mostaru",
+    "location": "Everywhere",
+    "email": "gabrielavrljic1999@gmail.com",
+    "id": "8"
+  },
+  {
+    "name": "Ella Crnić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Sveučilište u Zadru",
+    "location": "Everywhere",
+    "email": "crnicella@gmail.com",
+    "id": "8"
+  },
+  {
+    "name": "Tonči Lučić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Sveučilište u Zadru",
+    "location": "Everywhere",
+    "email": "tonci.lucic95@gmail.com",
+    "id": "9"
+  },
+  {
+    "name": "Mia Salopek",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Sveučilište u Zadru, Odjel za informacijske znanosti",
+    "location": "Everywhere",
+    "email": "mia.salopek@gmail.com",
+    "id": "10"
+  },
+  {
+    "name": "Tina Zurak",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Sveučilište u Zadru, Odjel za informacijske znanosti",
+    "location": "Everywhere",
+    "email": "tinazurak560@gmail.com",
+    "id": "11"
+  },
+  {
+    "name": "Barbara Strenja",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Sveučilište u Zadru, Odjel za informacijske znanosti",
+    "location": "Everywhere",
+    "email": "bstrenja@student.unizd.hr",
+    "id": "12"
+  },
+  {
+    "name": "Dajana Zrnić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Sveučilište u Zadru, Odjel za informacijske znanosti",
+    "location": "Everywhere",
+    "email": "dzrnic@student.unizd.hr",
+    "id": "13"
+  },
+  {
+    "name": "Marijan Martinović",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Sveučilište u Zadru, Odjel za informacijske znanosti",
+    "location": "Everywhere",
+    "email": "marijanmzd@gmail.com",
+    "id": "14"
+  },
+  {
+    "name": "Ivana Skočibušić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Sveučilište u Zadru, Odjel za informacijske znanosti",
+    "location": "Everywhere",
+    "email": "skocibusic.ivana5@gmail.com",
+    "id": "15"
+  },
+  {
+    "name": "Antonela Čepčar",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet Osijek",
+    "location": "Everywhere",
+    "email": "acepcar@ffos.hr",
+    "id": "16"
+  },
+  {
+    "name": "Valentina Dežić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet Osijek",
+    "location": "Everywhere",
+    "email": "valentina1998dez@gmail.com",
+    "id": "17"
+  },
+  {
+    "name": "Ivana Sliško",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet Osijek",
+    "location": "Everywhere",
+    "email": "sliskoivana11@gmail.com",
+    "id": "18"
+  },
+  {
+    "name": "Ante Bagarić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet Mostar",
+    "location": "Everywhere",
+    "email": "begara007@gmail.com",
+    "id": "19"
+  },
+  {
+    "name": "Ivan Puljić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet Mostar",
+    "location": "Everywhere",
+    "email": "ipuljic6@gmail.com",
+    "id": "20"
+  },
+  {
+    "name": "Stipan Popović",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet Mostar",
+    "location": "Everywhere",
+    "email": "stipan.popovic1398@gmail.com",
+    "id": "21"
+  },
+  {
+    "name": "Sven Orlić Babić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet u Zagrebu",
+    "location": "Everywhere",
+    "email": "orlicbsven@gmail.com",
+    "id": "24"
+  },
+  {
+    "name": "Ivana Svalina",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet u Osijeku",
+    "location": "Everywhere",
+    "email": "isvalina@ffos.hr",
+    "id": "25"
+  },
+  {
+    "name": "Tomislava Žilić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet u Osijeku",
+    "location": "Everywhere",
+    "email": "tzilic@ffos.hr",
+    "id": "26"
+  },
+  {
+    "name": "Jure Žilić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet u Osijeku",
+    "location": "Everywhere",
+    "email": "jzilic@ffos.hr",
+    "id": "27"
+  },
+
+  {
+    "name": "Marina Podkonjak",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet Sveučilišta u Zagrebu",
+    "location": "Everywhere",
+    "email": "marina.cernik777@gmail.com",
+    "id": "29"
+  },
+  {
+    "name": "Marija Buhin",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet u Osijeku",
+    "location": "Everywhere",
+    "email": "mbuhin@ffos.hr",
+    "id": "30"
+  },
+  {
+    "name": "Ivona Grgić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet u Osijeku",
+    "location": "Everywhere",
+    "email": "igrgic@ffos.hr",
+    "id": "31"
+  },
+  {
+    "name": "Cvijetin Vidaković",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet u Osijeku",
+    "location": "Everywhere",
+    "email": "vidakovic.cvijetin@gmail.com",
+    "id": "32"
+  },
+  {
+    "name": "Marija Žilić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet u Osijeku",
+    "location": "Everywhere",
+    "email": "mzilic@ffos.hr",
+    "id": "33"
+  },
+  {
+    "name": "Danijela Šarić",
+    "profilePic": "/assets/img/speakers/user.png",
+    "about": "Filozofski fakultet u Osijeku",
+    "location": "Everywhere",
+    "email": "dsaric1@ffos.hr",
+    "id": "34"
+  }
+
+  ],
+
+  "map": [
+    {
+      "name": "Filozofski fakultet Osijek",
+      "lat": 45.558787,
+      "lng": 18.680888,
+      "center": true
+    },
+    {
+      "name": "Studentski centar Osijek (Restoran Istarska, Restoran Gaudeamus)",
+      "lat": 45.556256,
+      "lng": 18.693772,
+      "center": true
+    },
+    {
+      "name": "Tvrđa",
+      "lat": 45.560517, 
+      "lng": 18.695462,
+      "center": true
+    },
+    {
+      "name": "Studentski restoran Campus",
+      "lat": 45.556654,  
+      "lng": 18.706937,
+      "center": true
+    },
+    {
+      "name": "Pub kviz i službeni party konferencije",
+      "lat": 45.555042,  
+      "lng": 18.6859861,
+      "center": true
+    },
+    {
+      "name": "Promenada (Most mladosti)",
+      "lat": 45.562618, 
+      "lng": 18.685277,
+      "center": true
+    }
+     
+  ]
+}
